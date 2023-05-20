@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "bsp_usart.h": "c",
+        "stm32f10x.h": "c",
+        "bsp_spi.h": "c",
+        "stm32f10x_spi.h": "c"
+    }
+}

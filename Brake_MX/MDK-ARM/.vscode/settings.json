@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "bsp_rc522.h": "c",
+        "main.h": "c",
+        "usart.h": "c",
+        "brake.h": "c",
+        "bsp_i2c.h": "c",
+        "tim.h": "c",
+        "bsp_at24c02.h": "c",
+        "stm32f1xx_it.h": "c",
+        "show.h": "c"
+    }
+}
