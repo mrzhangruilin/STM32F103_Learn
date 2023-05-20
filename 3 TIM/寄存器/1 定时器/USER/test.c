@@ -25,7 +25,7 @@ int main(void)
 } 
 
 
-//中断函数，产生中断的时候执行，谁产生中断谁去执行
+
 void TIM2_IRQHandler(void)
 { 		    		  			    
 	if(TIM2->SR&0x01)//溢出中断
