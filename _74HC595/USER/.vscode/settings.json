@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "sys.h": "c",
+        "bsp_74hc595.h": "c"
+    }
+}

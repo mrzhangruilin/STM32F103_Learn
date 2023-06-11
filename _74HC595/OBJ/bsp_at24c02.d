@@ -1,0 +1,9 @@
+..\obj\bsp_at24c02.o: ..\BSP\Src\bsp_at24c02.c
+..\obj\bsp_at24c02.o: ..\BSP\Inc\bsp_at24c02.h
+..\obj\bsp_at24c02.o: ..\BSP\Inc\bsp_i2c.h
+..\obj\bsp_at24c02.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\bsp_at24c02.o: ..\SYSTEM\sys\core_cm3.h
+..\obj\bsp_at24c02.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\bsp_at24c02.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\bsp_at24c02.o: ..\SYSTEM\delay\delay.h
+..\obj\bsp_at24c02.o: ..\SYSTEM\sys\sys.h

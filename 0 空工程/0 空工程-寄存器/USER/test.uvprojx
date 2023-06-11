@@ -429,16 +429,6 @@
           </Files>
         </Group>
         <Group>
-          <GroupName>HARDWARE</GroupName>
-          <Files>
-            <File>
-              <FileName>MY_LED.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\HARDWARE\MY_LED.c</FilePath>
-            </File>
-          </Files>
-        </Group>
-        <Group>
           <GroupName>BSP</GroupName>
           <Files>
             <File>
